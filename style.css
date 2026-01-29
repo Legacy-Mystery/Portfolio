@@ -4,4 +4,4 @@ h1 {font-weight: bold;text-align: center}
 h2 {font-weight: bold;text-align: center}
 a {font-size: 20pt; text-align: center; text-decoration: none; color: #ffffff; background-color: #001539;padding: 1px;border-radius: 90px;font-weight: bold;border: 10px solid #39001b;display: inline-block;  display: flex;justify-content: center;align-items: center;}
 img {width: 100px}
-.about-section { display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap; /* makes it responsive */ } .about-section img { width: 200px; border-radius: 8px; } .about-section p { max-width: 600px; text-align: left; }
+.about-section { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; /* makes it responsive */ } .about-section img {border-radius: 8px; } .about-section p { max-width: 600px; text-align: left; }
